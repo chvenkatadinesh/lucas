@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    margin: 100px;
+    background-color: rgb(14, 11, 11);
+    color: rgb(121, 113, 113);
+}
+
+#logo{
+    padding: 20px;
+}
